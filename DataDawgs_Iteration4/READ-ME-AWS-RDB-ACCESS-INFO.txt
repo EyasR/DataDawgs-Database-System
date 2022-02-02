@@ -1,0 +1,5 @@
+Information needed to access AWS RDB instance of NFL database:
+
+database end point: database-1.cdpabba6akq8.us-east-2.rds.amazonaws.com
+user: admin
+password: Zelda1234
